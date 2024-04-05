@@ -59,7 +59,7 @@ Data.close()# pour arrêter la lecture des données série
 
 plt.title('Pulse par 10s') # titre du graphique
 plt.hist(liste_impulsion, bins=50, color='skyblue', edgecolor='black')
-plt.xlim (0,1000)  #limtes pour les axes avec les valeurs extrêmes de I et de U
+plt.xlim (0,1000)  #limites pour les axes
 plt.ylim(0,100)
 plt.xlabel('pulse par 10 s')
 plt.ylabel('fréquence')
