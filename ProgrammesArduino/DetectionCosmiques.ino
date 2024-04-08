@@ -1,3 +1,7 @@
+// Programme de comptage de coïncidences entre 2 tubes Geiger. Prévu pour Arduino Uno.
+// Auteur : Cédric Vanden Driessche, Lycée Charles de Gaulle, CAEN. mél : cedric.vanden-driessche@ac-normandie.fr
+
+
 long Tinit;                 // Définition des variables
 long duree;
 
